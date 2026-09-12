@@ -1,0 +1,62 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_name,region_code,old_la_code,la_name,new_la_code,pcon_code,pcon_name,phase_type_grouping,sen_provision,sen_primary_need,total_pupil_count
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Autistic spectrum disorder,165399
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Down syndrome,2242
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Hearing impairment,6440
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Moderate learning difficulty,35475
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Multi-sensory impairment,1392
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Other difficulty or disability,9587
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Physical disability,14918
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Profound and multiple learning difficulty,9339
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Severe learning difficulty,31246
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan","Social, emotional and mental health",83339
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Specific learning difficulty,21384
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan","Speech, language and communications needs",108936
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,493764
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Vision impairment,4067
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Autistic spectrum disorder,124247
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Down syndrome,266
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Hearing impairment,17474
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Moderate learning difficulty,161933
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Multi-sensory impairment,3092
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Other difficulty or disability,40373
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Physical disability,20154
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Profound and multiple learning difficulty,503
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,SEN support but no specialist assessment of type of need,65219
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Severe learning difficulty,1592
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,"Social, emotional and mental health",301482
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Specific learning difficulty,158833
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,"Speech, language and communications needs",312118
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,1216756
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Unknown,2
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Vision impairment,9468
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Autistic spectrum disorder,149217
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Down syndrome,1422
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Hearing impairment,6368
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Moderate learning difficulty,34755
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Multi-sensory impairment,1352
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Other difficulty or disability,8954
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Physical disability,14865
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Profound and multiple learning difficulty,9911
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Severe learning difficulty,31271
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan","Social, emotional and mental health",71304
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Specific learning difficulty,19064
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan","Speech, language and communications needs",92004
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,444419
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Unknown,11
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Vision impairment,3921
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Autistic spectrum disorder,114772
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Down syndrome,225
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Hearing impairment,17396
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Moderate learning difficulty,170228
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Multi-sensory impairment,3278
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Other difficulty or disability,40923
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Physical disability,21085
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Profound and multiple learning difficulty,695
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,SEN support but no specialist assessment of type of need,57779
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Severe learning difficulty,1859
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,"Social, emotional and mental health",279230
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Specific learning difficulty,160490
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,"Speech, language and communications needs",304021
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,1181665
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Unknown,140
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Vision impairment,9544

@@ -1,0 +1,45 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_name,region_code,old_la_code,la_name,new_la_code,pcon_code,pcon_name,phase_type_grouping,sen_provision,sen_primary_need,sex,age_total_pupil_count,age_total_pupil_percent
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,349235,70.7291337562
+202526,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,144529,29.27086624379
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,734956,60.40290740296
+202526,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,481800,39.59709259703
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,317202,71.37453619219
+202425,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,127217,28.6254638078
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,722988,61.183838059
+202425,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,458677,38.81616194099
+202324,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,288144,71.96169954521
+202324,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,112269,28.03830045478
+202324,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,706245,61.96512205351
+202324,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,433501,38.03487794648
+202223,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,260994,72.42952528431
+202223,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,99343,27.56908714499
+202223,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,686641,62.8082368459
+202223,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,406585,37.19103138029
+202122,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,240627,72.81863657409
+202122,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,89818,27.18075818512
+202122,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,663368,63.52286416329
+202122,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,380930,36.4771358367
+202021,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,221852,73.05741796962
+202021,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,81816,26.94258203037
+202021,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,643529,64.1961330431
+202021,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,358912,35.80376720049
+201920,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,201544,73.12811134816
+201920,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,74060,26.87188865183
+201920,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,645159,64.55334093774
+201920,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,354261,35.44665906225
+201819,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,185724,72.98893714016
+201819,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,68731,27.01106285983
+201819,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,631854,64.94935965897
+201819,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,340987,35.05064034102
+201718,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,173304,72.9390869567
+201718,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,64297,27.06091304329
+201718,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,619105,65.18610160568
+201718,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,330645,34.81389839431
+201617,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,166290,72.94892829255
+201617,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,61664,27.05107170744
+201617,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,610144,65.30157928309
+201617,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,324204,34.6984207169
+201516,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Male,162594,72.89935840817
+201516,Academic year,National,E92000001,England,,,,,,,,Total,"Education, health and care plan",Total,Female,60445,27.10064159182
+201516,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Male,604110,65.16568378608
+201516,Academic year,National,E92000001,England,,,,,,,,Total,SEN support / SEN without an EHC plan,Total,Female,322927,34.83431621391

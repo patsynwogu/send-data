@@ -1,0 +1,58 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_name,region_code,old_la_code,la_name,new_la_code,pcon_code,pcon_name,ethnicity_major,phase_type_grouping,sen_provision,sen_primary_need,ethnicity_minor,pupil_count
+202526,Academic year,National,E92000001,England,,,,,,,,Total,Total,"Education, health and care plan",Total,Total,493764
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,"Education, health and care plan",Total,Indian,10562
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,"Education, health and care plan",Total,Pakistani,19520
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,"Education, health and care plan",Total,Bangladeshi,9610
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,"Education, health and care plan",Total,Chinese,1701
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,"Education, health and care plan",Total,Any other Asian background,9846
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,"Education, health and care plan",Total,Black Caribbean,5795
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,"Education, health and care plan",Total,Black African,23794
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,"Education, health and care plan",Total,Any other Black background,5777
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,"Education, health and care plan",Total,White and Black Caribbean,10487
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,"Education, health and care plan",Total,White and Black African,5024
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,"Education, health and care plan",Total,White and Asian,6889
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,"Education, health and care plan",Total,Any other Mixed / Multiple ethnic background,14539
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,"Education, health and care plan",Total,English / Welsh / Scottish / Northern Irish / British,324203
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,"Education, health and care plan",Total,Irish,1093
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,"Education, health and care plan",Total,Traveller of Irish heritage,678
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,"Education, health and care plan",Total,Any other White background,24159
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,"Education, health and care plan",Total,Gypsy / Roma,1953
+202526,Academic year,National,E92000001,England,,,,,,,,Any other ethnic group,Total,"Education, health and care plan",Total,Any other ethnic group,9880
+202526,Academic year,National,E92000001,England,,,,,,,,Total,Total,SEN support / SEN without an EHC plan,Total,Total,1216756
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,SEN support / SEN without an EHC plan,Total,Indian,24869
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,SEN support / SEN without an EHC plan,Total,Pakistani,46359
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,SEN support / SEN without an EHC plan,Total,Bangladeshi,16960
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,SEN support / SEN without an EHC plan,Total,Chinese,3762
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,SEN support / SEN without an EHC plan,Total,Any other Asian background,17816
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,SEN support / SEN without an EHC plan,Total,Black Caribbean,13680
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,SEN support / SEN without an EHC plan,Total,Black African,47883
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,SEN support / SEN without an EHC plan,Total,Any other Black background,10320
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,SEN support / SEN without an EHC plan,Total,White and Black Caribbean,26608
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,SEN support / SEN without an EHC plan,Total,White and Black African,11356
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,SEN support / SEN without an EHC plan,Total,White and Asian,17195
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,SEN support / SEN without an EHC plan,Total,Any other Mixed / Multiple ethnic background,33137
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,SEN support / SEN without an EHC plan,Total,English / Welsh / Scottish / Northern Irish / British,829004
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,SEN support / SEN without an EHC plan,Total,Irish,3151
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,SEN support / SEN without an EHC plan,Total,Traveller of Irish heritage,1727
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,SEN support / SEN without an EHC plan,Total,Any other White background,64137
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,SEN support / SEN without an EHC plan,Total,Gypsy / Roma,6750
+202526,Academic year,National,E92000001,England,,,,,,,,Any other ethnic group,Total,SEN support / SEN without an EHC plan,Total,Any other ethnic group,24204
+202526,Academic year,National,E92000001,England,,,,,,,,Total,Total,Total,Total,Total,8359455
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,Total,Total,Indian,353670
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,Total,Total,Pakistani,390881
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,Total,Total,Bangladeshi,150877
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,Total,Total,Chinese,64930
+202526,Academic year,National,E92000001,England,,,,,,,,Asian / Asian British,Total,Total,Total,Any other Asian background,210182
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,Total,Total,Black Caribbean,72951
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,Total,Total,Black African,442053
+202526,Academic year,National,E92000001,England,,,,,,,,Black / African / Caribbean / Black British,Total,Total,Total,Any other Black background,74998
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,Total,Total,White and Black Caribbean,134069
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,Total,Total,White and Black African,80139
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,Total,Total,White and Asian,147651
+202526,Academic year,National,E92000001,England,,,,,,,,Mixed / Multiple ethnic groups,Total,Total,Total,Any other Mixed / Multiple ethnic background,248391
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,Total,Total,English / Welsh / Scottish / Northern Irish / British,4992446
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,Total,Total,Irish,19625
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,Total,Total,Traveller of Irish heritage,6501
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,Total,Total,Any other White background,589357
+202526,Academic year,National,E92000001,England,,,,,,,,White,Total,Total,Total,Gypsy / Roma,28669
+202526,Academic year,National,E92000001,England,,,,,,,,Any other ethnic group,Total,Total,Total,Any other ethnic group,220633
